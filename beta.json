@@ -1,7 +1,7 @@
 {
   "betaBuild": "beta-1",
   "enabled": true,
-  "maxTrialDays": 0.001,
+  "maxTrialDays": 30,
   "notAfter": "2026-12-31",
   "message": "Thank you for testing Plenvi."
 }
